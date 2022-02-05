@@ -1,0 +1,14 @@
+{{ $title := .Title }}
+{{ $url := printf "%s" .Permalink | absLangURL }}
+{{ $body := print $title ", by " .Site.Title "\n" .Params.description "\n\n" $url "\n" }}
+<div id="sharing">
+  <p>Share via</p>
+  
+  <a  href="https://twitter.com/intent/tweet?via=diagonalising&amp;url={{ .Permalink }}&amp;text={{ .Title }}" target="_blank" rel="noopener" aria-label="Share on Twitter" class="share-btn twitter">
+          {{ partial "svg/twitter.svg" (dict "class" "widget-social__link-icon") }}
+  </a>
+
+  <a href="mailto:?subject={{ .Site.Title }} - {{ $title }}.&amp;body={{ $body }}" target="_blank" class="share-btn email">
+          {{ partial "svg/email.svg" (dict "class" "widget-social__link-icon") }}
+  </a>
+</div>

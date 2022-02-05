@@ -1,0 +1,67 @@
+baseURL: ''
+languageCode: en-us
+title: Diagonalising.com
+theme: hugo-theme-anubis
+paginate: 5
+
+disqusShortname: ''
+googleAnalytics: ''
+
+author:
+  name: Giulia Solinas and Christoph Feest
+
+params:
+  author: Giulia Solinas and Christoph Feest
+  email: contact@diagonalising.com # used for microformats
+  avatar: "/images/me.png" # used for microformats - HOW?
+  dateFormat: '2006-01-02'
+  description: We blog about topics in digitalisation, health and management
+  paginationSinglePost: yes
+  readMore: false
+  style: auto
+  social:  
+  - id : twitter
+    url : https://twitter.com/diagonalising
+  - id : email
+    url : mailto:contact@diagonalising.com
+
+  utterancesIssue: ''
+  utterancesLabel: ''
+  utterancesRepo: ''
+  utterancesTheme: ''
+
+menu:
+  main:
+    - identifier : "about"
+      name : "About Us"
+      url : "/about/"
+      weight : 1
+
+    - identifier : "tags"
+      name : "Tags"
+      url : "/tags/"
+      weight : 2
+
+    - name : "Archive"
+      identifier : archive"
+      url : "/posts/"
+      weight : 3
+
+taxonomies:
+  category : "categories"
+  tag : "tags"
+  
+# privacy:
+#   twitter:
+#     disable: false
+#     enableDNT: true
+#     simple: true
+#     
+# services:
+#   twitter:
+#     disableInlineCSS: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

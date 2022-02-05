@@ -1,0 +1,3 @@
+{{ $title := .Title }} {{ $url := printf "%s" .Permalink | absLangURL }} {{ $body := print $title ", by " .Site.Title "\n" .Params.description "\n\n" $url "\n" }}
+{{ partial "fa-icons/twitter.svg" (dict "size" "32px") }} 
+{{ partial "fa-icons/email.svg" (dict "size" "32px") }} 

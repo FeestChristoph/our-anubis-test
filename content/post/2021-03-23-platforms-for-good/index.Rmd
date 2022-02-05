@@ -1,0 +1,19 @@
+---
+title: Platforms for Good
+author: Giulia Solinas
+date: '2021-03-23'
+slug: []
+categories:
+  - Projections
+tags:
+  - Digital
+  - Management
+---
+
+In 2017, at the [World Economic Forum](https://www.weforum.org/), Bill Gates and a group of leading philanthropists announced the launch of [Co-Impact](https://www.co-impact.org/), a platform hub aimed at working collaboratively to drive social change at scale in three fields—health, education, and economic opportunity. This initiative combines platforms’ design with the need to address societal grand challenges, as embodied by the UN’s [sustainable development goals](https://sdgs.un.org/goals). Is Co-impact an isolated example, or is it part of a wider phenomenon?
+
+The pervasiveness of platforms highlights how these organizations grow and thrive thanks to the interaction with the ecosystem and users’ engagement. Platforms have a crucial influence on market competitiveness, for example, among vendors or between platform providers. Instead, the contribution of platforms to social change is poorly examined despite an expanding array of public and private initiatives.
+
+Schemes similar to Co-Impact have sprung up over the past decade, and several were initiated with the support of national or international institutions—for example, the European Commission supports the Collective Awareness Platforms for Sustainability and Social Innovation ([CAPSSI](https://capssi.eu/)). When explaining their platforms’ core traits, founders emphasize that the social intent determines a platform design substantially different from the one of Uber, Facebook, and other conventional platforms.
+
+What are the dimensions of a platform design that enables both sustainability and value generation for society and the platform’s market? If Wikipedia, having [turned 20](https://www.economist.com/leaders/2021/01/09/happy-birthday-wikipedia) this year, and Co-impact are any guide, such dimensions exist. If we tease them out and make them accessible, we can provide the right building blocks to enable more platforms for good to enter the arena. Ultimately, this strategy can prove to be a game-changer to address societal grand challenges and scale up the positive effects of platforms on social change.

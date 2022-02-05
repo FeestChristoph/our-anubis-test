@@ -1,0 +1,27 @@
+---
+title: Unmet needs
+author: Christoph Feest
+date: '2020-11-02'
+slug: []
+categories:
+  - Projections
+tags:
+  - Digital
+  - Health
+  
+socialshare: true
+---
+
+Advanced therapies cure diseases instead of treating symptoms. Machine learning will help reach more patients sooner.
+
+The term advanced therapies is often used to describe interventions in the vanguard of biomedicine: Based on cells, genes or tissue engineering these ‘living drugs’ can treat chronic conditions and often restore the functionality of diseased tissue. Their first wave has arrived in the clinic, most notably [CAR-T cells](https://www.cancerresearchuk.org/about-cancer/cancer-in-general/treatment/immunotherapy/types/CAR-T-cell-therapy) battling blood cancer and [gene therapies](https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/what-gene-therapy) for rare diseases such as muscular dystrophy. Overall, there are now close to 20 advanced therapy medicinal products ([ATMP](https://www.ema.europa.eu/en/human-regulatory/marketing-authorisation/advanced-therapies/advanced-therapy-classification)) [approved](https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products) by the [FDA](https://www.fda.gov/) and [EMA](https://www.ema.europa.eu/en), the respective regulatory authorities in the US and Europe.
+
+Patients are being cured with advanced therapies every day and more is to come. According to the [latest report](https://alliancerm.org/sector-report/h1-2020-report-pdf/) from the [Alliance for Regenerative Medicine](https://alliancerm.org/), the sector’s foremost trade body, over 1,000 companies are developing new advanced therapies and over 1,000 clinical trials are running. The industry is maturing and, important for this perspective, large amounts of high-quality data are generated from manufacturing, from all phases of clinical development and trials, and from post marketing follow-up; that data comprises electronic health records, histology, medical imaging, blood screens and extensive characterisation of each advanced therapy product. Here is the opportunity to bring machine learning into play to boost productivity of existing advanced therapies and to develop next generation products.
+
+Sifting through large and diverse data sets uncovering correlations and inferring causality – that’s what machine learning algorithms do extremely well. They analyse medical images such as X-rays and select potentially useful drugs from huge databases of chemical compounds with often superhuman performance. Machine learning will be a key tool in many domains of healthcare. How could advanced therapies benefit?
+
+Start with manufacturing. Setting up and maintaining a robust manufacturing process is a crucial early part of the clinical development of advanced therapies and a persistent cost factor of their application. Cell therapies, such as the currently approved CAR-T cell therapies, are often produced for individual patients from their own tissue as starting material: Over the course of two to three weeks highly qualified staff operate bioreactors in clean rooms, transfer genes to target the tumour and perform quality controls. Small variations in materials and handling can cause substantial changes to the final product’s quality and thus determine how well it works. Machine learning can power imaging and other sensing modalities for much needed non-invasive product characterisation and continuous monitoring. Adding further steps towards automation, including robotic assistance, could lead to an integrated manufacturing process that is the basis for increased output and faster innovation across the industry.
+
+Next are clinical trials. Advanced therapies, as any new drug, go through a standardised sequence of clinical tests to demonstrate safety and efficacy. Their complex mode of action defies pharmacology rules, which makes previously straightforward steps such as dose finding much harder. It also leads to an extensive number of biomarkers – telltale parameters for the functionality of an organ – being monitored. Scrutinising such deep data beyond traditional primary and secondary endpoints is a critical advantage, both for measuring performance and for achieving a fuller understanding of the mode of action of an advanced therapy product. Machine learning could then help refine measures of success, predict the effective dose patient by patient and prevent failures; its analyses could also reveal unforeseen effects that open up new application areas, for instance systemic benefits or improvements of other organs.
+
+Combining a data-rich trajectory of an advanced therapy product with machine learning may bring the greatest prize of all: linking manufacturing to clinical performance. Doctors would then be able to adapt a product to suit the patient best through tweaks in the manufacturing process. Such a capability would give rise to a platform technology where multiple products and thus clinical effects can be generated reliably from the same starting material. Think of it as drug repurposing on demand. Machine learning is already a great tool for diagnosis and discovery; by turning the complexity of advanced therapies into versatility it would help cure patients more directly than ever before.
