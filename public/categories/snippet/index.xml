@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snippet on Diagonalising.com</title>
+    <link>https://diagonalising.com/categories/snippet/</link>
+    <description>Diagonalising.com (Snippet)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://diagonalising.com/categories/snippet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This is a first - do it open and digital</title>
+      <link>https://diagonalising.com/post/2020-11-16-this-is-a-first-do-it-open-and-digital/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diagonalising.com/post/2020-11-16-this-is-a-first-do-it-open-and-digital/</guid>
+      <description>
+&lt;script src=&#34;https://diagonalising.com/post/2020-11-16-this-is-a-first-do-it-open-and-digital/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;It is one week since Pfizer &amp;amp; BioNTech announced that their first interim analysis “&lt;a href=&#34;https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-announce-vaccine-candidate-against-covid-19&#34;&gt;indicates a [COVID-19] vaccine efficacy rate above 90%, at seven days after the second dose&lt;/a&gt;.” Similar announcements will arrive over the next few weeks for other vaccine candidates currently in phase 3 clinical trials. With regulatory approvals expedited, it is plausible that by Spring 2021, several vaccines are on the market and deployed. Companies and governments are &lt;a href=&#34;https://www.economist.com/leaders/2020/11/14/the-promise-of-the-new-covid-19-vaccine-is-immense&#34;&gt;preparing logistics and drawing up distribution schemes&lt;/a&gt; at speed for a vaccination campaign that will take years and involve a number of different vaccines. To build trust and supply timely data to the public, companies, researchers and policy makers should strive to make the global COVID-19 fight the first digital, and open-data vaccination campaign.&lt;/p&gt;
+&lt;p&gt;Many countries have developed and released COVID-19 warning apps. These apps could be adapted to easily record the details of the vaccine (type, batch etc.) that an individual receives. Furthermore, the apps could remind users to get their second shot (most vaccines require a 2-dose schedule) or a booster later in 2021 (as immunity is likely to drop over time). Above all, such functionalities are practical, keeping track of appointments, vaccinations and test results over the next years. Furthermore, users could opt to donate their data anonymously to research projects. The use of warning apps would broaden further, reaching deeper into the economically and socially more active generations.&lt;/p&gt;
+&lt;p&gt;Data on the vaccination campaign should be open and made public with county-level granularity. Weekly updates on the dispensed doses/vaccines will help to build trust in the distribution schemes, adapt policy responses, and guide the development of the next generation of vaccines. Governments quickly mobilised cash and the public has a legitimate interest in timely information; they should prevail over commercial confidentiality.&lt;/p&gt;
+&lt;p&gt;COVID-19 will not go away soon; it will also not be the last pandemic. If we handle this global response with digital tools and open data, we can lay the groundwork for what is to come.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
