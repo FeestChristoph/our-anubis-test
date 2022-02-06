@@ -1,7 +1,8 @@
-baseURL: ''
+baseURL: '/'
 languageCode: en-us
 title: Diagonalising.com
 theme: hugo-theme-anubis
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 paginate: 5
 
 disqusShortname: ''
