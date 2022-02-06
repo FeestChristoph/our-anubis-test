@@ -1,4 +1,4 @@
-baseURL: '/'
+baseURL: 'https://diagonalising.com/'
 languageCode: en-us
 title: Diagonalising.com
 theme: hugo-theme-anubis
